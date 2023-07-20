@@ -11,15 +11,15 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-254-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-260-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 537 Bytes Used in GitHub's Storage 
+> 📦 559 Bytes Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2023
+> 🏆 104 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-🌆 Daytime                50 commits          ██████████████░░░░░░░░░░░   56.82 % 
-🌃 Evening                37 commits          ███████████░░░░░░░░░░░░░░   42.05 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+🌆 Daytime                55 commits          ██████████████░░░░░░░░░░░   56.70 % 
+🌃 Evening                41 commits          ███████████░░░░░░░░░░░░░░   42.27 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   27 commits          ████████░░░░░░░░░░░░░░░░░   30.68 % 
-Tuesday                  24 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Wednesday                21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Monday                   27 commits          ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Tuesday                  24 commits          ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Wednesday                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 
@@ -54,21 +54,24 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        3 hrs 46 mins       ██████████████████████░░░   88.54 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C                        7 hrs 3 mins        ██████████████████░░░░░░░   71.86 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+C++                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████░░░░░░░░   69.40 % 
-Visual Studio            1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Visual Studio            5 hrs 15 mins       █████████████░░░░░░░░░░░░   53.50 % 
+VS Code                  4 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.50 % 
 
 🐱‍💻 Projects: 
-c_project                2 hrs 34 mins       ███████████████░░░░░░░░░░   60.70 % 
-project1                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
-CLearnNoteBook           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+project1                 4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
+c_project                2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+CLearnNoteBook           1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+C++_01                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -80,7 +83,7 @@ Rust                     1 repo              ███████████�
 
 
 
- Last Updated on 19/07/2023 18:36:09 UTC
+ Last Updated on 20/07/2023 18:36:44 UTC
 <!--END_SECTION:waka-->
 
 
