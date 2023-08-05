@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -54,26 +54,26 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      19 hrs 5 mins       ████████████░░░░░░░░░░░░░   48.10 % 
-C                        17 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.68 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Python                   39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-CMake                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+C                        17 hrs 6 mins       █████████████░░░░░░░░░░░░   50.31 % 
+C++                      13 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.30 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+CMake                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-Visual Studio            26 hrs 59 mins      █████████████████░░░░░░░░   68.04 % 
-VS Code                  6 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-CLion                    5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Visual Studio            21 hrs 35 mins      ████████████████░░░░░░░░░   63.54 % 
+CLion                    6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+VS Code                  5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 
 🐱‍💻 Projects: 
-test                     8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Snack                    6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-c_project                4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Tetris                   3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Gobang                   3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+test                     9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Snack                    3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Gobang                   3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+LeetCodeTest             3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+untitled                 3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 💻 Operating System: 
-Windows                  39 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +87,7 @@ Rust                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 04/08/2023 18:35:33 UTC
+ Last Updated on 05/08/2023 18:35:40 UTC
 <!--END_SECTION:waka-->
 
 
