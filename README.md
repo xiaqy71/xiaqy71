@@ -2,7 +2,7 @@
 <h3 align="center">A student from China</h3>
 
 - 🔭 I’m currently study at NEPU
-- 🌱 I’m currently learning **C/C++**，**Data Structures and Algorithms**，
+- 🌱 I’m currently learning **C/C++**，**Data Structures and Algorithms**，**SQL**，**Linux**
 - 📫 How to reach me: xiaqiyi680@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=xiaqy71)
