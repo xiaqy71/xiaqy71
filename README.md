@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,21 +54,23 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs 44 mins       ██████████████░░░░░░░░░░░   54.66 % 
-C++                      1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Logos                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C                        7 hrs 22 mins       ██████████████████░░░░░░░   73.47 % 
+C++                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Logos                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  10 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 43 mins       ██████████████░░░░░░░░░░░   54.05 % 
-Tetris                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-推箱子                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+简易计算器                    4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
+Unknown Project          2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Tetris                   1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+推箱子                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 
 💻 Operating System: 
-Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +84,7 @@ Rust                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 21/09/2023 18:35:42 UTC
+ Last Updated on 22/09/2023 18:36:10 UTC
 <!--END_SECTION:waka-->
 
 
