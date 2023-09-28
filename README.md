@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,25 +54,26 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        11 hrs 42 mins      ████████████░░░░░░░░░░░░░   47.85 % 
-C++                      7 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.55 % 
-Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-ObjectiveC               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+C                        12 hrs 27 mins      █████████████░░░░░░░░░░░░   53.79 % 
+C++                      6 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Python                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+ObjectiveC               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 56 mins      █████████████████░░░░░░░░   69.26 % 
-CLion                    7 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.74 % 
+VS Code                  15 hrs 26 mins      █████████████████░░░░░░░░   66.67 % 
+CLion                    7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.10 % 
+RustRover                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-简易计算器                    7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
-MyString                 4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Unknown Project          2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-tree                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Tetris                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+简易计算器                    7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
+MyString                 4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+串口通信                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+串口通信_接收机                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+tree                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 💻 Operating System: 
-Windows                  24 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -86,7 +87,7 @@ Rust                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 27/09/2023 18:36:43 UTC
+ Last Updated on 28/09/2023 18:36:14 UTC
 <!--END_SECTION:waka-->
 
 
