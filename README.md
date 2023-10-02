@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,27 +54,27 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
-C                        4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Rust                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Python                   1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+C                        4 hrs               ████████░░░░░░░░░░░░░░░░░   31.73 % 
+C++                      2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Rust                     2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Python                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      ██████████████████░░░░░░░   72.20 % 
-CLion                    4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-RustRover                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+VS Code                  11 hrs 3 mins       ██████████████████████░░░   87.68 % 
+CLion                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+RustRover                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-rustlings                2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-tree                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-串口通信                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-串口通信_接收机                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-MyString                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+rustlings                2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+tree                     2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+串口通信                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+串口通信_接收机                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+当当网Top500                56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-Windows                  12 hrs 6 mins       ███████████████████░░░░░░   75.10 % 
-WSL                      4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Windows                  8 hrs 24 mins       █████████████████░░░░░░░░   66.67 % 
+WSL                      4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +88,7 @@ Rust                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 01/10/2023 18:35:47 UTC
+ Last Updated on 02/10/2023 18:36:55 UTC
 <!--END_SECTION:waka-->
 
 
