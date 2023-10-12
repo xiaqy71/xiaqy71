@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,25 +54,26 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 12 mins      ███████████████████░░░░░░   74.07 % 
-Rust                     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-C                        1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-PowerShell               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   12 hrs 43 mins      █████████████████░░░░░░░░   69.60 % 
+Rust                     3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+C                        1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+PowerShell               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 58 mins      █████████████████████████   98.39 % 
+CLion                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 Projects: 
-.leetcode                11 hrs 27 mins      █████████████████░░░░░░░░   69.44 % 
-rust-rustlings-2023-autum2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-code                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Unknown Project          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-lesson1                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+.leetcode                11 hrs 27 mins      ████████████████░░░░░░░░░   62.67 % 
+rust-rustlings-2023-autum3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Unknown Project          1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+code                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+tree                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-WSL                      15 hrs 20 mins      ███████████████████████░░   92.99 % 
-Windows                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+WSL                      16 hrs 15 mins      ██████████████████████░░░   89.02 % 
+Windows                  2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 ```
 
 **I Mostly Code in C++** 
@@ -86,7 +87,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 11/10/2023 18:37:29 UTC
+ Last Updated on 12/10/2023 18:37:05 UTC
 <!--END_SECTION:waka-->
 
 
