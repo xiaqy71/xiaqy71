@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 January 2023 - To: 31 March 2024
+From: 10 January 2023 - To: 01 April 2024
 
-Total Time: 439 hrs 59 mins
+Total Time: 443 hrs 58 mins
 
-C                  168 hrs 2 mins  >>>>>>>>>>---------------   38.01 %
-C++                84 hrs 14 mins  >>>>>--------------------   19.06 %
-Python             49 hrs 7 mins   >>>----------------------   11.11 %
-Markdown           41 hrs 33 mins  >>-----------------------   09.40 %
-Rust               34 hrs 23 mins  >>-----------------------   07.78 %
-ObjectiveC         17 hrs 36 mins  >------------------------   03.98 %
-HTML               13 hrs 32 mins  >------------------------   03.06 %
-CMake              7 hrs 22 mins   -------------------------   01.67 %
-CSS                5 hrs 31 mins   -------------------------   01.25 %
-Objective-C        2 hrs 4 mins    -------------------------   00.47 %
+C                  168 hrs 2 mins  >>>>>>>>>----------------   37.67 %
+C++                84 hrs 14 mins  >>>>>--------------------   18.89 %
+Python             52 hrs 50 mins  >>>----------------------   11.85 %
+Markdown           41 hrs 33 mins  >>-----------------------   09.32 %
+Rust               34 hrs 23 mins  >>-----------------------   07.71 %
+ObjectiveC         17 hrs 36 mins  >------------------------   03.95 %
+HTML               13 hrs 32 mins  >------------------------   03.04 %
+CMake              7 hrs 22 mins   -------------------------   01.65 %
+CSS                5 hrs 31 mins   -------------------------   01.24 %
+Objective-C        2 hrs 4 mins    -------------------------   00.46 %
 ```
 
 <!--END_SECTION:waka-->
