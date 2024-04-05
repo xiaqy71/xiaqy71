@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 January 2023 - To: 03 April 2024
+From: 10 January 2023 - To: 04 April 2024
 
 Total Time: 444 hrs 31 mins
 
@@ -26,7 +26,7 @@ ObjectiveC         17 hrs 36 mins  >------------------------   03.94 %
 HTML               13 hrs 32 mins  >------------------------   03.03 %
 CMake              7 hrs 22 mins   -------------------------   01.65 %
 CSS                5 hrs 31 mins   -------------------------   01.24 %
-Objective-C        2 hrs 4 mins    -------------------------   00.46 %
+JSON               4 hrs 45 mins   -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->
